@@ -1047,11 +1047,10 @@
  .text-bg h1 {
      color: #fff;
      padding-top: 80px;
-     font-size: 90px;
-     line-height: 100px;
+     font-size: 40px;
+     line-height: 50px;
      padding-bottom: 25px;
-     text-transform: uppercase;
-     font-weight: 500;
+     font-weight: 400;
 }
  .text-bg span {
      font-size: 17px;
@@ -1147,8 +1146,8 @@
  .our .Games a {
      font-size: 16px;
      border: #fff solid 1px;
-     background-color: #000;
-     color: #fff;
+     background-color: #fbff00;
+     color: #000000;
      padding: 10px 27px;
      display: inline-block;
 }
